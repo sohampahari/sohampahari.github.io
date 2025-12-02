@@ -89,13 +89,13 @@ Projects
 
   <li>
     <b>AMoE-ViT: Adaptive Mixture of Orthogonal Experts Vision Transformer</b>
-    <span style="float:right; font-size:80%; color:#7a7a7a;">2024</span> <br>
+    <span style="float:right; font-size:80%; color:#7a7a7a;">2025</span> <br>
     <i>Self-supervised disease diagnosis using dual-stage pretext + temporal video modeling.</i>
   </li>
 
   <li>
     <b>TriadNet — Multimodal Personality Assessment System</b>
-    <span style="float:right; font-size:80%; color:#7a7a7a;">2024</span> <br>
+    <span style="float:right; font-size:80%; color:#7a7a7a;">2025</span> <br>
     <i>Uses graph facial dynamics, prosody-aware speech networks, and contextual text flow for OCEAN prediction.</i>
   </li>
 
@@ -107,7 +107,7 @@ Projects
 
   <li>
     <b>PrepAI — AI Interview Simulation System</b>
-    <span style="float:right; font-size:80%; color:#7a7a7a;">2023</span> <br>
+    <span style="float:right; font-size:80%; color:#7a7a7a;">2024</span> <br>
     <i>Real-time AI-driven interview environment with speech analysis, Grok API integration, and browser-based evaluation.</i>
   </li>
 

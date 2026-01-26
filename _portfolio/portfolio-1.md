@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "PrepAI — AI Interview Simulation System"
+excerpt: "Real-time AI-driven interview environment with speech analysis the Grok API integration."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Real-time AI-driven interview environment with speech analysis, Grok API integration, and browser-based evaluation system.
+
+<!--
+TO ADD MORE PORTFOLIO ITEMS:
+1. Create new files like portfolio-2.md, portfolio-3.md, etc.
+2. Copy this template and update the title, excerpt, and description
+3. Add images by placing them in /images/ and referencing as '/images/your-image.png'
+-->
